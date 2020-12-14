@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/2ksyrus/SY-SELFBOT.git"
+    "url": "git+https://github.com/userzaqo"
   },
   "author": "zaqo#7777",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/2ksyrus/SY-SELFBOT/issues"
+    "url": "https://github.com/userzaqo/issues"
   },
-  "homepage": "https://github.com/2ksyrus/SY-SELFBOT/blob/master/README.md",
+  "homepage": "https://github.com/userzaqo",
   "dependencies": {
     "@discordjs/uws": "^10.149.0",
     "bitly": "^7.1.0",
