@@ -1,5 +1,6 @@
 ### Sup lil selfbot made in js, dont give a fuck bout discord ngl so use it at ur own risk bro love yall👋
 
+### No token Grabber btw just obsf. for protect my code so tht it enjoy
 
 ## Installation Guide btw (Windows)
 - Run 'Install.bat' (it should insall all dependencies)
