@@ -13,7 +13,7 @@
 
 ### Spotify
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="zaqo Spotify Playing" width="350" />](https://open.spotify.com/track/4b5MClLs2BLp12uAUHauwK?si=X8iVz0sOSMuLCx7KTlCoDw)
+[<img src="https://now-playing-Lv.vercel.app/api/spotify-playing" alt="zaqo Spotify Playing" width="350" />](https://open.spotify.com/track/4b5MClLs2BLp12uAUHauwK?si=X8iVz0sOSMuLCx7KTlCoDw)
 
 ### Connect with me:
 
