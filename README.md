@@ -17,8 +17,6 @@
 - Telegram: @zaqouser
 
 
-[<img src="https://now-playing-Lv.vercel.app/api/spotify-playing" alt="zaqo Spotify Playing" width="350" />](https://open.spotify.com/track/4b5MClLs2BLp12uAUHauwK?si=X8iVz0sOSMuLCx7KTlCoDw)
-
 <br />
 
 ### useless stuff tht i stole from cool read me lol
