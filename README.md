@@ -1,27 +1,20 @@
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+### Sup lil selfbot made in js so dont give a fuck bout discord ngl so use it at ur own risk bro love yall👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## Installation Guide btw (Windows)
+- Run 'Install.bat' (it should insall all dependencies)
+- Go into a random editor go 'settings.json' then put your token, ID, Prefix
+- Then run 'start.bat'
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+## Installation Guide btw (Mac)
+- Open a random code editor go into terminal then type 'npm i'
+-  Go to 'settings.json' then put your token, ID, Prefix
+- then run the file selfzaqo.js (node.js)
+(should have node.js already installed)
 
 ### Spotify
 
 [<img src="https://now-playing-Lv.vercel.app/api/spotify-playing" alt="zaqo Spotify Playing" width="350" />](https://open.spotify.com/track/4b5MClLs2BLp12uAUHauwK?si=X8iVz0sOSMuLCx7KTlCoDw)
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
