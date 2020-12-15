@@ -12,13 +12,16 @@
 - then run the file selfzaqo.js (node.js)
 (should have node.js already installed)
 
-### Spotify
+### Info bout me btw :
+- Discord: zaqo#7777
+- Telegram: @zaqouser
+
 
 [<img src="https://now-playing-Lv.vercel.app/api/spotify-playing" alt="zaqo Spotify Playing" width="350" />](https://open.spotify.com/track/4b5MClLs2BLp12uAUHauwK?si=X8iVz0sOSMuLCx7KTlCoDw)
 
 <br />
 
-### Languages and Tools:
+### useless stuff tht i stole from cool read me lol
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
